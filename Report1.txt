@@ -1,0 +1,6 @@
+Report of orders performed 
+between given start hour0 and given end hour 23 regardless the date 
+Order [orderID = 0, clientUID = 1, orderDate = Tue Jun 01 22:02:04 EEST 2021] 
+Order [orderID = 1, clientUID = 1, orderDate = Tue Jun 01 22:02:10 EEST 2021] 
+Order [orderID = 2, clientUID = 1, orderDate = Tue Jun 01 22:02:16 EEST 2021] 
+Order [orderID = 3, clientUID = 2, orderDate = Tue Jun 01 22:25:21 EEST 2021] 

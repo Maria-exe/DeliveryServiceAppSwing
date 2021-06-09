@@ -1,0 +1,8 @@
+Order ID: 6
+Order date: Wed Jun 02 09:00:44 EEST 2021
+Ordered products: 
+Griddled Tomato-Chipotle Salsa 	80
+Plantain Picadillo Pie with Cheese 	54
+
+Total price: 134
+

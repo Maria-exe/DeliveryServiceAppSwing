@@ -1,0 +1,12 @@
+Report of the products ordered within a specified day with the number of times they have been ordered
+Coconut-Vegetable Slaw   ordered 1 times
+Mango Chutney   ordered 1 times
+Challah   ordered 2 times
+Honey Barbequed Salmon with Mâche   ordered 2 times
+Cucumber-Dill Sauce   ordered 1 times
+Strawberry Cream Cake   ordered 2 times
+Austrian Crepes   ordered 1 times
+Sweet Pastry Dough   ordered 2 times
+Corn Pudding   ordered 1 times
+Grilled Turmeric and Lemongrass Chicken Wings   ordered 1 times
+Hot Fudge Sauce   ordered 1 times
